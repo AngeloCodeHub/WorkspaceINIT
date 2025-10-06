@@ -1,6 +1,9 @@
 # Obsidian vault config
 .obsidian/workspace*.json
 
+# draw.io backup files
+*.drawio.bkp
+
 # dependencies (bun install)
 node_modules
 

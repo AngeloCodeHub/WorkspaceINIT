@@ -2,6 +2,10 @@
   "name": "workspaceinit",
   "module": "index.ts",
   "type": "module",
+  "scripts": {
+    "noteStartsync": "node ./src/noteStartsync.js",
+    "noteStopsync": "node ./src/noteStopsync.js"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },
